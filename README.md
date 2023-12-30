@@ -8,7 +8,7 @@ I gennerally colaborate with colleagues to built something and improve our habil
 
 At 2013 I already started my studies in course of HTML, CSS and JS. It's triggered my curiosity about software development. When I have completed high school, I started to study Software Engineering at UTFPR. In some consequences, I stoped and started tecnhological game development course at PUC-CAMPINAS.
 
-Now I'm starting study about Computer Engineering at USF Itatiba.
+Now I'm studying about Computer Engineering at USF Itatiba.
 
 Here, you will find some projects that I working to study.
 
