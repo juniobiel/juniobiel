@@ -15,7 +15,7 @@ Aqui você encontrará alguns projetos que trabalho para estudar.
 
 Hoje, sou desenvolvedor de software na IBM, mas os projetos em que trabalho lá não são públicos.
 
-Desenvolvo usando .NET e C#, posso usar a mesma linguagem para desenvolver softwares web ou jogos 😉
+Desenvolvo usando .NET, C# e python.
 ​
 # EN Version
 👋 Hi, I’m @juniobiel.
@@ -34,4 +34,4 @@ Here, you will find some projects that I working to study.
 
 Today, I am software developer at IBM, but the projects that I work in there is not public.
 
-I develop using .NET and C#, I can use the same language to develop web or games softwares 😉
+I develop using .NET, C# and python
