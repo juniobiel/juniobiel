@@ -5,7 +5,7 @@ Gosto de trabalhar em desenvolvimento de software e Games. Estou trabalhando em 
 
 Geralmente colaboro com colegas para construir algo e melhorar nossas habilidades, utilizando conhecimento colaborativo.
 
-🎮 [Guto](https://github.com/juniobiel/Guto) é nosso projeto mais recente que estamos trabalhando para desenvolver um jogo e implantá-lo na playstore, está em construção. *Preciso me lembrar de atualizar este read-me
+🎮 [Áxios](https://github.com/juniobiel/axios) é nosso projeto mais recente que estamos trabalhando para desenvolver um jogo e implantá-lo na playstore, está em construção. *Preciso me lembrar de atualizar este read-me
 
 Em 2013 já iniciei meus estudos no curso de HTML, CSS e JS. Isso despertou minha curiosidade sobre desenvolvimento de software. Ao terminar o ensino médio, comecei a cursar Engenharia de Software na UTFPR. Em algumas consequências, parei e comecei o curso de desenvolvimento tecnológico de jogos na PUC-CAMPINAS.
 
