@@ -25,7 +25,7 @@ At 2013 I already started my studies in course of HTML, CSS and JS. It's trigger
 
 Now I'm studying about Computer Engineering at USF Itatiba.
 
-Here, you will find some projects that I working to study.
+Here, you will find some projects that I'm working to study.
 
 Today, I am software developer at IBM, but the projects that I work in there is not public.
 
