@@ -32,4 +32,4 @@ Today, I am software developer at IBM, but the projects that I work in there is 
 I develop using .NET and C#.
 
 # My little GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=juniobiel&theme=dracula&no-frame=true&title=Multilanguage,Commits,PullRequest,Experience,Followers,Repositories,Stars,Issues)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=juniobiel&theme=dracula&no-frame=true&title=MultiLanguage,Commits,PullRequest,Experience,Followers,Repositories,Stars,Issues)](https://github.com/ryo-ma/github-profile-trophy)
