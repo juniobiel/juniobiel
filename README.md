@@ -13,7 +13,7 @@ Aqui você encontrará alguns projetos que trabalho para estudar.
 
 Hoje, sou desenvolvedor de software na IBM, mas os projetos em que trabalho lá não são públicos.
 
-Desenvolvo usando .NET and C#.
+Desenvolvo usando .NET e C#.
 # EN Version
 👋 Hi, I’m @juniobiel.
 
@@ -30,3 +30,6 @@ Here, you will find some projects that I'm working to study.
 Today, I am software developer at IBM, but the projects that I work in there is not public.
 
 I develop using .NET and C#.
+
+# My little GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=juniobiel&theme=dracula&no-frame=true&title=Multilanguage,Commits,PullRequest,Experience,Followers,Repositories,Stars,Issues)](https://github.com/ryo-ma/github-profile-trophy)
