@@ -11,8 +11,6 @@ Agora estou cursando Engenharia de Computação na USF Itatiba.
 
 Aqui você encontrará alguns projetos que trabalho para estudar.
 
-Hoje, sou desenvolvedor de software na IBM, mas os projetos em que trabalho lá não são públicos.
-
 Desenvolvo usando .NET e C#.
 # EN Version
 👋 Hi, I’m @juniobiel.
@@ -26,8 +24,6 @@ At 2013 I already started my studies in course of HTML, CSS and JS. It's trigger
 Now I'm studying about Computer Engineering at USF Itatiba.
 
 Here, you will find some projects that I'm working to study.
-
-Today, I am software developer at IBM, but the projects that I work in there is not public.
 
 I develop using .NET and C#.
 
