@@ -13,8 +13,6 @@ Aqui você encontrará alguns projetos que trabalho para estudar.
 
 Desenvolvo usando .NET, C# e estudando python.
 
-De 2021 até 2024, trabalhei em projetos com a IBM Consulting em Itaú e Petrobrás.
-
 # EN Version
 👋 Hi, I’m @juniobiel.
 
@@ -29,8 +27,6 @@ Now I'm studying about Computer Engineering at USF Itatiba.
 Here, you will find some projects that I'm working to study.
 
 I develop using .NET, C# and Python.
-
-Since 2021 and 2024, I worked in project at IBM Consulting at Itaú and Petrobrás.
 
 # Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=juniobiel&theme=dracula&no-frame=true&title=MultiLanguage,Commits,PullRequest,Experience,Followers,Repositories,Stars,Issues)](https://github.com/ryo-ma/github-profile-trophy)
