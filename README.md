@@ -27,6 +27,3 @@ Now I'm studying about Computer Engineering at USF Itatiba.
 Here, you will find some projects that I'm working to study.
 
 I develop using .NET, C# and Python.
-
-# Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=juniobiel&theme=dracula&no-frame=true&title=MultiLanguage,Commits,PullRequest,Experience,Followers,Repositories,Stars,Issues)](https://github.com/ryo-ma/github-profile-trophy)
