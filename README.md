@@ -27,3 +27,6 @@ Now I'm studying about Computer Engineering at USF Itatiba.
 Here, you will find some projects that I'm working to study.
 
 I develop using .NET, C# and Python.
+
+
+![Mosted used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juniobiel&layout=compact&langs_count=7&theme=tokyonight)
